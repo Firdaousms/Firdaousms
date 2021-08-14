@@ -1,4 +1,4 @@
-#WELCOME 
+# WELCOME 
 - 👋 Hi, I’m @Firdaousms
 - 👀 I’m interested in frontend development 
 - 🌱 I’m currently learning Angular 12
