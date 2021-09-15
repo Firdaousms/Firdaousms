@@ -1,10 +1,11 @@
-# WELCOME 
-- 👋 Hi, I’m @Firdaousms
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning Angular 12
+# Hi, I'm Firdaous 👋 💻
+  
+<hr /> <hr /> <hr /> <hr />
+##  <Currently learning web development Angular and Spring boot. />
+<hr /> <hr /> <hr /> <hr />
 
-- 📫 How to reach me :
-       - Email: firdaousmossaouir@gmail.com
-       - Cell: 0603863600
-
-
+# Find me at :
+      🧕   : Firdaous Mossaouir
+      📧   : firdaousmossaouir@gmail.com
+      📱    : 0603863600
+      
