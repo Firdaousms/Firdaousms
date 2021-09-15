@@ -1,7 +1,7 @@
 # Hi, I'm Firdaous 👋 💻
   
 
-# Currently learning web development Angular and Spring boot. </>
+## Currently learning web development Angular and Spring boot. </>
 
 
 # Find me at :
